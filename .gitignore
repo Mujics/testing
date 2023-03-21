@@ -8,7 +8,12 @@
 *.ctxt
 
 # Idea Files
-*.idea
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
